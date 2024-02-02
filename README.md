@@ -1,0 +1,2 @@
+# seminar.repo
+First repo
